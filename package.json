@@ -1,6 +1,6 @@
 {
   "name": "hubot-drupalorg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Display issue/page information from drupal.or",
   "main": "index.coffee",
   "scripts": {
