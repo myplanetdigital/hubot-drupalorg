@@ -1,0 +1,23 @@
+{
+  "name": "hubot-drupalorg",
+  "version": "0.0.1",
+  "description": "Display issue/page information from drupal.or",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myplanetdigital/hubot-drupalorg"
+  },
+  "keywords": [
+    "hubot",
+    "drupal"
+  ],
+  "author": "guyoron",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "jsdom": "> 0.2.1"
+  }
+}
